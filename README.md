@@ -1,5 +1,5 @@
 <!-- profile page  -->
-<a href="https://baki.ruqad.com/" target="_blank"> ![Screenshot 2021-12-27 115149](https://user-images.githubusercontent.com/57604289/147464865-33411f6c-8b9e-44f6-8081-063646e468a7.png) </a>
+<a href="https://baki.ruqad.com/" target="_blank"> ![Screenshot 2021-12-27 115149](https://user-images.githubusercontent.com/57604289/205471833-294ed944-bdff-4c9e-a123-b14518708838.png) </a>
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://baki.ruqad.com/">Biruk Endris</a><br>
