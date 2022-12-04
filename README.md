@@ -1,11 +1,11 @@
 <!-- profile page  -->
-<a href="https://birukendris.ahadusolution.com/" target="_blank"> ![Screenshot 2021-12-27 115149](https://user-images.githubusercontent.com/57604289/147464865-33411f6c-8b9e-44f6-8081-063646e468a7.png) </a>
+<a href="https://baki.ruqad.com/" target="_blank"> ![Screenshot 2021-12-27 115149](https://user-images.githubusercontent.com/57604289/147464865-33411f6c-8b9e-44f6-8081-063646e468a7.png) </a>
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://birukendris.ahadusolution.com/">Biruk Endris</a><br>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://baki.ruqad.com/">Biruk Endris</a><br>
 <!-- links to social media  -->
 <!--Twitter  -->
-<a href="https://twitter.com/EndrisBiruk">
+<a href="https://twitter.com/bakiwebdev">
   <img align="left" alt="Biruk Endris | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-512.png" />
 </a>
 <!--Linkedin  -->
