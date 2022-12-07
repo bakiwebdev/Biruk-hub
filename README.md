@@ -36,7 +36,12 @@ I am a self driven individual with an enthusiasm for coding and problem solving 
 <!-- MySQL -->
 <img align="left" alt="Biruk Endris | MySQL" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" />
 <!-- C# -->
-<img align="left" alt="Biruk Endris | C#" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhkfdzwVRb0ztUgYRbu9sv-x_ApSCTvO99yImWA3cuFLvKiOWpKODxdmlWVW49wiZCs&usqp=CAU" /><br><br><br><br><br>
+<img align="left" alt="Biruk Endris | C#" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhkfdzwVRb0ztUgYRbu9sv-x_ApSCTvO99yImWA3cuFLvKiOWpKODxdmlWVW49wiZCs&usqp=CAU" />
+<!-- Node JS -->
+<img align="left" alt="Biruk Endris | Node JS" width="100px" src="https://user-images.githubusercontent.com/57604289/206280385-839b96d6-d6f6-4864-a20d-7852791c3fc6.png" />
+<!-- Express JS  -->
+<!-- <img align="left" alt="Biruk Endris | Node JS" width="100px" src="https://user-images.githubusercontent.com/57604289/206280385-839b96d6-d6f6-4864-a20d-7852791c3fc6.png" /> -->
+<br><br><br><br><br>
 
 ## Some of my Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biruk-hub&layout=compact" alt="Top Langs" /> <img src="https://github-readme-stats.vercel.app/api?username=Biruk-hub&show_icons=true&theme=gotham" alt="Biruk Hub Status" />
