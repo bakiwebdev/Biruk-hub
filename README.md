@@ -15,20 +15,16 @@
 <a href="https://www.instagram.com/endris.biruk/">
   <img align="left" alt="Biruk Endris | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-512.png" />
 </a><br><br>
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, everyone! 
 
-My name is <a href="https://baki.ruqad.com/">Biruk Endris</a><br> and I'm a web developer with experience in HTML, CSS, TailwindCSS, Javascript, Node JS, React JS, Next JS and AWS Lambda. I have been working at a real company for the past two years and so far I'm loving every minute of it. 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://baki.ruqad.com/" target="_blank"> Biruk Endris - Web Developer</a> 
 
-As a web developer, my job is to create websites using code that is clear, efficient and readable. This involves writing code that is easy to understand and debug as well as using the right tools for the job. When using HTML, CSS and JavaScript I need to make sure that all of the code works in all modern browsers so that users can view the website on any device they choose. 
+Greetings! I am Biruk Endris, a passionate and experienced Web Developer specializing in HTML, CSS, TailwindCSS, JavaScript, Node JS, React JS, Next JS and AWS Lambda. I have been actively developing for a real company for the past two years and am always looking for more work in the industry.
 
-I am now working with TailwindCSS which is a great front-end framework for web development. It's easy to use, fast and has great customization options allowing me to quickly create websites with a modern look and feel. Additionally, I'm also working with Node JS and Express JS for development on the backend.
+My expertise lies in developing intricate web solutions using the latest web development technologies such as HTML, CSS and TailwindCSS for web page design, JavaScript, Node.js and React.js for programming functionality, and AWS Lambda for server-side computing applications. I also possess an excellent understanding of web best practices and standards and make sure my projects follow these guidelines.
 
-AWS Lambda is my most recent venture into the cloud computing world. This powerful platform offers great scalability for web applications and is something I am continuing to explore in my work. 
+I am a self driven individual with an enthusiasm for coding and problem solving making me an invaluable asset to any team. If you would like to discuss any project or engagement please feel free to get in touch!
 
-I am very excited by my work as a web developer and I am always looking to learn more. It's thrilling to watch something start as an idea in my head turn into a full-fledged web application which can be used by millions of people around the world. 
 
-Thanks for reading! 
-Biruk Endris
 ### Languages and tools:
 <!-- technology i use -->
 <!-- HTML -->
